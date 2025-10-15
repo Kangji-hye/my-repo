@@ -5,5 +5,10 @@
 # CSS
 # HTML
 # Cross-Browsing
-# SEO 
+# SEO Marketing
+# Web Standards
 # Google Analytics
+# Web Design 
+# Photoshop
+# Website Planning
+# PowerPoint
